@@ -1,0 +1,4 @@
+numpy
+pinecone-client
+matplotlib
+sentence-transformers
